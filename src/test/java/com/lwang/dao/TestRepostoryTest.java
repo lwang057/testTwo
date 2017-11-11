@@ -28,8 +28,8 @@ public class TestRepostoryTest {
     public void testSave() {
 
         TestTwo testTwo = new TestTwo();
-        testTwo.setName("张局长");
-        testTwo.setPice("96");
+        testTwo.setName("翠花");
+        testTwo.setPice("18");
         testTwo.setCount("000");
         testRepostory.save(testTwo);
     }
